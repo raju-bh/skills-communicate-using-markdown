@@ -12,3 +12,7 @@ list_ = ["1","2"]
 def sort_list(list_):
   list_.sort()
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
