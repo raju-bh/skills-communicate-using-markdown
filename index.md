@@ -6,10 +6,6 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```Python
-list_ = ["1","2"]
-def sort_list(list_):
-  list_.sort()
-```
+
   
 
